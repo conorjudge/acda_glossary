@@ -5,7 +5,7 @@
 
 <!-- badges: end -->
 
-The goal of {glossary} is to provide a glossary of health research methodology, applied medical statistical and clinical data analytics terms used in the MSc in Applied Clinical Data Analytics [PsyTeachR books](https://psyteachr.github.io/).
+The goal of {glossary} is to provide a glossary of health research methodology, applied medical statistical and clinical data analytics terms used in the MSc in Applied Clinical Data Analytics [MSc in Applied Clinical Data Analytics book](https://acda_book.github.io/).
 
 ## Installation
 
