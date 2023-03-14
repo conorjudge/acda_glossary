@@ -5,9 +5,7 @@
 
 <!-- badges: end -->
 
-The goal of {glossary} is to provide a glossary of statistical and R
-coding terms used in the [PsyTeachR books](https://psyteachr.github.io/)
-that can be accessed offline.
+The goal of {glossary} is to provide a glossary of health research methodology, applied medical statistical and clinical data analytics terms used in the MSc in Applied Clinical Data Analytics [PsyTeachR books](https://psyteachr.github.io/).
 
 ## Installation
 
@@ -16,7 +14,7 @@ You can install the development version of glossary from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("psyteachr/glossary")
+devtools::install_github("conorjudge/acda_glossary")
 ```
 
 ## Access the book offline
